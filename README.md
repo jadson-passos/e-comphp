@@ -1,4 +1,4 @@
-# Projeto E-commerce comWay
+# Projeto E-commerce
 
 Projeto desenvolvido em PHP 7
 
